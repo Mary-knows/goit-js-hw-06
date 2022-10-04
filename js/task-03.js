@@ -20,7 +20,6 @@ galeryRef.classList.add('galery-js')
 const makeOneImageRef = ({ url, alt }) => {
   const liRef = document.createElement('li');
   
-
   const imgRef = document.createElement('img');
   imgRef.src = url;
   imgRef.alt = alt;
