@@ -28,3 +28,9 @@ button {
   align-items: center;
   justify-content: center;
 }
+
+.images-js {
+  width: 400px;
+  height: 300px;
+  margin-right: 40px;
+}
